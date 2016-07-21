@@ -7,3 +7,5 @@ the files.
 
 To use: go to a youtube url, and click the JJ button that appears on the top right and it should automatically download it to 
 your downloads folder or wherever you set downloads to be saved. 
+
+NOTE: MOST RECENT VERSION IS ON JASONSJASONS ORGANIZATION GITHUB
